@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1606833640 source:c:\users\mosaa\onedrive\desktop\mohamed assigment\main.cpp
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<string>
+
+1606834284 c:\users\mosaa\onedrive\desktop\mohamed assigment\include\user.h
+	<string>
+
+1606834471 c:\users\mosaa\onedrive\desktop\mohamed assigment\include\book.h
+	<string>
+	<user.h>
+
+1606834284 source:c:\users\mosaa\onedrive\desktop\mohamed assigment\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+
+1606834284 source:c:\users\mosaa\onedrive\desktop\mohamed assigment\src\user.cpp
+	"User.h"
+	<string>
+	<iostream>
+
+1609598656 source:c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\main.cpp
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<UserList.h>
+	<BookList.h>
+	<string>
+	<limits>
+
+1609532527 c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\include\user.h
+	<string>
+
+1609531704 c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\include\book.h
+	<string>
+	<user.h>
+
+1609589918 source:c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+
+1609558667 source:c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\src\user.cpp
+	"User.h"
+	<string>
+	<iostream>
+
+1609001637 source:c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\src\jpa.cpp
+	"jpa.h"
+
+1609001637 c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\include\jpa.h
+
+1609537711 source:c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\src\userlist.cpp
+	"UserList.h"
+	<iostream>
+
+1609537711 c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\include\userlist.h
+	"User.h"
+
+1609558102 source:c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\src\booklist.cpp
+	"BookList.h"
+	<iostream>
+
+1609558102 c:\users\mosaa\onedrive\desktop\b8 _ 20198119 _ 20198039\include\booklist.h
+	"Book.h"
+
+1609558586 source:c:\users\hp\desktop\b8 _ 20198119 _ 20198039\src\book.cpp
+	"Book.h"
+	<string>
+	<iostream>
+
+1609531704 c:\users\hp\desktop\b8 _ 20198119 _ 20198039\include\book.h
+	<string>
+	<user.h>
+
+1609532527 c:\users\hp\desktop\b8 _ 20198119 _ 20198039\include\user.h
+	<string>
+
+1609558102 source:c:\users\hp\desktop\b8 _ 20198119 _ 20198039\src\booklist.cpp
+	"BookList.h"
+	<iostream>
+
+1609558102 c:\users\hp\desktop\b8 _ 20198119 _ 20198039\include\booklist.h
+	"Book.h"
+
+1609558667 source:c:\users\hp\desktop\b8 _ 20198119 _ 20198039\src\user.cpp
+	"User.h"
+	<string>
+	<iostream>
+
+1609537711 source:c:\users\hp\desktop\b8 _ 20198119 _ 20198039\src\userlist.cpp
+	"UserList.h"
+	<iostream>
+
+1609537711 c:\users\hp\desktop\b8 _ 20198119 _ 20198039\include\userlist.h
+	"User.h"
+
+1609557877 source:c:\users\hp\desktop\b8 _ 20198119 _ 20198039\main.cpp
+	<cstring>
+	<iostream>
+	<User.h>
+	<Book.h>
+	<UserList.h>
+	<BookList.h>
+	<string>
+	<limits>
+
